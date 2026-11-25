@@ -1,0 +1,20 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f1ea;
+    color: #2c241e;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+.encabezado {
+    background-color: #2d4739;
+    color:#f4f1ea;
+    text-align: center;
+    padding: 25px 15px;
+    border-bottom: 5px solid #5c4033;
+}
+
+.encabezado h1 {
+    margin: 0 0 8px 0;
+    font-size: 2rem;
+}
